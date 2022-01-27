@@ -1,0 +1,1 @@
+console.log('JavaScript Concepts - A practical guide to walk you through the essentials concepts of JavaScript')
